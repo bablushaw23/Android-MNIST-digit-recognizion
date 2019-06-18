@@ -1,5 +1,6 @@
 Main thing was actually built using Javascript and then the webpage(No internet required) is then fit inside app.
-
+Here is the demo:
+![](Demo.gif)
 To build this app within reasonable size and resources i took android's browser support. For this i made a webpage where small and tuned version of neural network's code is written in javascript. No dependencies, just simple maths.
 
 You'll find the webpage inside assets folder under apps->src->main.
